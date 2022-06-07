@@ -1,0 +1,4 @@
+# file extensions to ignore
+*.nc
+*.hdf
+*.png
